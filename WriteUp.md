@@ -154,7 +154,7 @@ Screenshot:
 
 ## Root flag
 
-To fetch the root flag, the box had `root.py`. I copied the contents and executed it locally using the key I earlier obtained from `key_rev_key` (this challenge expected verifying something locally). The flag printed.
+To fetch the root flag, the box had `root.py`. I copied the contents and executed it locally using the key I earlier obtained from `key_rev_key`. The flag printed.
 
 Screenshot:
 ![root.py](screenshots/root_flag.png)
