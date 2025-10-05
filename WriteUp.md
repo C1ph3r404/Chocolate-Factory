@@ -80,7 +80,7 @@ We cracked `charlie`'s password. Time to hit the web app.
 
 Use credentials `charlie:<password>` on the site. Login success → land on `/home.php` which allows executing shell commands (or a command field that leads to a shell).
 
-Screenshot:
+Screenshot:   
 ![home.php](screenshots/home.png)
 
 Get a reverse shell listener and spawn a shell from the web app (example):
